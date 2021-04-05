@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>University Project on Eric Roseren</title>
+    <link>https://erros2107.github.io/Eric_portofolio/tags/university-project/</link>
+    <description>Recent content in University Project on Eric Roseren</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Sep 2018 10:58:08 -0400</lastBuildDate><atom:link href="https://erros2107.github.io/Eric_portofolio/tags/university-project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liver Cancer - Investigating the risk factors</title>
+      <link>https://erros2107.github.io/Eric_portofolio/post/project-1/</link>
+      <pubDate>Sun, 09 Sep 2018 10:58:08 -0400</pubDate>
+      
+      <guid>https://erros2107.github.io/Eric_portofolio/post/project-1/</guid>
+      <description>Liver cancer is the second leading cause of cancer-related death worldwide. The most important risk factor for HCC diagnosis is cirrhosis of the liver. Cirrhosis arises as a result of long-lasting damage cause to the liver due to the building up of scar tissue. Several factors have been identified of being the main cause behind cirrhosis, including viral hepatitis B and C (HepBand HepC), alcoholic liver disease (ALD), non-alcoholic fatty liver disease (NAFLD).</description>
+    </item>
+    
+  </channel>
+</rss>
